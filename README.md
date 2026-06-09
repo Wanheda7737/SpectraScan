@@ -76,7 +76,7 @@ T5: Insane (Fastest, least stealth)
 
 Common Ports
 The scanner includes a predefined list of common ports (FTP, SSH, HTTP, MySQL, etc.). You can specify custom ports using -p.
-
+```
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
