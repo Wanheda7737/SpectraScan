@@ -6,3 +6,6 @@ prettytable
 rich
 scapy
 python-nmap
+paramiko
+requests
+fpdf
